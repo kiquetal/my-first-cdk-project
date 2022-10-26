@@ -72,3 +72,7 @@ Thank you for your interest in contributing to our project. Whether it is a bug 
 [899]: https://www.udemy.com/user/n-kumar/
 [900]: https://ko-fi.com/miztiik
 [901]: https://ko-fi.com/Q5Q41QDGK
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804615904">https://packt.link/free-ebook/9781804615904 </a> </p>
