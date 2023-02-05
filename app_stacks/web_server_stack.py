@@ -4,7 +4,6 @@ from aws_cdk import aws_iam as _iam
 from aws_cdk import aws_autoscaling as _autoscaling
 from aws_cdk import core
 
-
 class WebServerStack(core.Stack):
 
     def __init__(self, scope: core.Construct, id: str, vpc, **kwargs) -> None:
