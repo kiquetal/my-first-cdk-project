@@ -42,4 +42,5 @@ setuptools.setup(
 
         "Typing :: Typed",
     ],
-)
+
+    )
